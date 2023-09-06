@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.pnghd.pics/data/14/coding-gif-24.gif">
 
 
-- 🌱 I’m currently learning **system design , react , angular**
+- 🌱 I’m currently learning **system design, react and angular**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/noor-fatima-128701233](www.linkedin.com/in/noor-fatima-128701233)
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **noorfatima262004@gmail.com**
 
-- ⚡ Fun fact * I am passionate about Desktop and Web Applications *
+- ⚡ Fun fact *I am passionate about Desktop and Web Applications*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
