@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **noorfatima262004@gmail.com**
 
-- ⚡ Fun fact *** I am passionate about Desktop and Web Application ***
+- ⚡ Fun fact * I am passionate about Desktop and Web Applications *
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
