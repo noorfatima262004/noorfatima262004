@@ -1,7 +1,6 @@
-[![MasterHead](https://user-images.githubusercontent.com/96945594/180788109-bed08f44-fd98-4865-a732-e9589386270e.gif)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/96945594/180788109-bed08f44-fd98-4865-a732-e9589386270e.gif)]
 <h1 align="center">Hi 👋, I'm Noor Fatima</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noorfatima262004&label=Profile%20views&color=0e75b6&style=flat" alt="noorfatima262004" /> </p>
 
