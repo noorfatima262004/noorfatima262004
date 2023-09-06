@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noorfatima262004&label=Profile%20views&color=0e75b6&style=flat" alt="noorfatima262004" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.pnghd.pics/data/14/coding-gif-24.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noorfatima262004" alt="noorfatima262004" /></a> </p>
 
 - 🌱 I’m currently learning **system design , react , angular**
 
