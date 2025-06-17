@@ -6,15 +6,15 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.pnghd.pics/data/14/coding-gif-24.gif">
 
 
-- 🌱 I’m currently learning **system design, react and angular**
+- 🌱 I’m currently working on **system design, Mern stack, WordPress, and app development**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/noor-fatima-128701233](www.linkedin.com/in/noor-fatima-128701233)
 
-- 💬 Ask me about **C# (.net framework) and Python**
+- 💬 Ask me about **Mern Stack, wordpress, and Python**
 
 - 📫 How to reach me **noorfatima262004@gmail.com**
 
-- ⚡ Fun fact *I am passionate about Desktop and Web Applications*
+- ⚡ Fun fact *I am passionate about web and App Applications*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
